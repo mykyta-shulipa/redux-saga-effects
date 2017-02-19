@@ -1,0 +1,27 @@
+{
+  "name": "redux-saga-effects",
+  "version": "1.0.0",
+  "description": "Small tool to help import effects from redux-saga package",
+  "jsnext:main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nktssh/redux-saga-effects.git"
+  },
+  "keywords": [
+    "redux-saga",
+    "redux",
+    "utils"
+  ],
+  "author": "Nikita Shulipa <nktssh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nktssh/redux-saga-effects/issues"
+  },
+  "homepage": "https://github.com/nktssh/redux-saga-effects#readme",
+  "peerDependencies": {
+    "redux-saga": ">=0.8.0 <0.15.0"
+  }
+}
