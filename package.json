@@ -1,6 +1,6 @@
 {
   "name": "redux-saga-effects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small tool to help import effects from redux-saga package",
   "jsnext:main": "src/index.js",
   "scripts": {
